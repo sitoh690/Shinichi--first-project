@@ -3,3 +3,4 @@ This is my first git project. Created 2011/09/24.
 add more words here!
 git-hubではonlineでエディットができる。この行はその
 機能で修正したものです。
+問題はこの修正をローカルにどう反映する?
